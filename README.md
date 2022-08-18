@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VISION0666
-- 👀 I’m interested in Data Scraping, Data exploration, Data cleaning and basically anything associated with data
-- 🌱 I’m currently learning MS Excel Advanced from udemy
-- 📫 How to reach me yashmeshram.iitb@gmail.com 
+- 👀 I’m interested in
+- 🌱 I’m currently learning 
+- 📫 How to reach me 
 
 <!---
 VISION0666/VISION0666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
